@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.center {
+    text-align: center;
+}
+
